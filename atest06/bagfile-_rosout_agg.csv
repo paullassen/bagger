@@ -1,0 +1,8 @@
+%time,field.header.seq,field.header.stamp,field.header.frame_id,field.level,field.name,field.msg,field.file,field.function,field.line,field.topics0
+1592411634618240472,21,1592411634617728661,,2,/record_1592411628580281457,Subscribing to /test/eri,/tmp/binarydeb/ros-kinetic-rosbag-1.12.14/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,212,/rosout
+1592411634627477123,22,1592411634626985276,,2,/record_1592411628580281457,Subscribing to /test/erd,/tmp/binarydeb/ros-kinetic-rosbag-1.12.14/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,212,/rosout
+1592411634638027212,23,1592411634637474275,,2,/record_1592411628580281457,Subscribing to /test/health,/tmp/binarydeb/ros-kinetic-rosbag-1.12.14/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,212,/rosout
+1592411634647345476,24,1592411634646838697,,2,/record_1592411628580281457,Subscribing to /test/att_in,/tmp/binarydeb/ros-kinetic-rosbag-1.12.14/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,212,/rosout
+1592411634657779921,25,1592411634657302050,,2,/record_1592411628580281457,Subscribing to /test/thrust,/tmp/binarydeb/ros-kinetic-rosbag-1.12.14/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,212,/rosout
+1592411634667400487,26,1592411634666691675,,2,/record_1592411628580281457,Subscribing to /test/attitude,/tmp/binarydeb/ros-kinetic-rosbag-1.12.14/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,212,/rosout
+1592411634677183979,27,1592411634676704927,,2,/record_1592411628580281457,Subscribing to /test/err,/tmp/binarydeb/ros-kinetic-rosbag-1.12.14/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,212,/rosout
